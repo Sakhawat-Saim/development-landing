@@ -25,3 +25,11 @@
     border-radius: 20px;
     padding: 10px 20px;
 }
+
+.carousel-inner img {
+    width: 50% !important ;
+    height: auto !important;
+    display: block !important;
+    margin: 0 auto !important;
+  }
+  
