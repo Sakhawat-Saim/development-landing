@@ -15,7 +15,8 @@
     background-size: cover !important;
     background-position: center center !important;
     background-repeat: no-repeat !important;
-    height: 100vh;
+    width: 100% !important;
+   
 }
 .header-description {
     margin-top: 30vh !important;
@@ -32,4 +33,12 @@
     display: block !important;
     margin: 0 auto !important;
   }
+
+  .bg-img2 {
+    background-image: url('../images/work.jpg') !important; 
+    background-size: cover !important;
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
+    width: 100% !important;
+}
   
